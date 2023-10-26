@@ -5,8 +5,7 @@ This is a C++ program that implements a simple Library Management System using a
 ## Table Of Content
 
 - [Introduction](#introduction)
-- [Algorithm](#algorithm)
-- [Output](#output)
+- [Components](#components)
 - [Usage](#usage)
 - [Example](#example)
 - [Requirements](#requirements)
@@ -22,7 +21,7 @@ The Library Management System uses a Hash Table to efficiently manage and search
 - Search for a student and the book they have issued.
 - Display the current state of the Hash Table.
 
-## Algorithm
+## Components
 
 The program is implemented with the following key components:
 
@@ -33,8 +32,6 @@ The program is implemented with the following key components:
 - `displayBooks` method: Displays the list of available books.
 - `bookThere` method: Checks if a book is available for issuing.
 - Menu-driven interface: Users can choose options to interact with the system.
-
-## Output
 
 The program provides a user-friendly menu-driven interface. When you run the program, you will see a menu with the following options:
 
